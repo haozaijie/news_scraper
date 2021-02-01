@@ -12,8 +12,11 @@ These metrics are then used to generate line charts for visualization purpose.
 Charts generated:
     ```
 1. number of news published daily by different news source
+
 2. polarity of news by different sources over time
+
 3. subjectivity of news by different sources over time
+
     ```
 
     
