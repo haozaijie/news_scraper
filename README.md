@@ -17,7 +17,7 @@ Charts generated:
     
 ## how to run it
 Download the repo then run the following command on command line:
-    python __main__.py 
+        python __main__.py 
     
 There will be prompt for the topic and date range you are interested in.
 Type the answers following the format and the scraper will start.
