@@ -59,10 +59,3 @@ if __name__ == "__main__":
     start_date = input("start date (in yyyy-mm-dd format)\n").strip()
     end_date = input("end date (in yyyy-mm-dd format)\n").strip()
     main(topic, start_date, end_date)
-
-
-
-
-
-
-
