@@ -16,6 +16,7 @@ Charts generated:
 
     
 ## how to run it
+
 Download the repo then run the following command on command line:
         python __main__.py 
     
